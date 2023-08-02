@@ -1,67 +1,55 @@
-Cognitive AI Project: Mouse Stimulus Testing
-This project aims to investigate the cognitive abilities of mice by examining their ability to distinguish between different stimuli and determine if they possess memory that influences their responses to the stimuli. The research is based on papers exploring mouse One-Legged-Rearing (OLR) motion.
+# Cognitive AI Mouse Experiment
 
-Table of Contents
-Introduction
-Project Goals
-Experimental Design
-Data Collection
-Data Analysis
-Setup Instructions
-Dependencies
-Contributing
-License
-Introduction
-The research focuses on studying the cognitive abilities of mice through experiments designed to evaluate their response to different stimuli. By analyzing their behavior during the One-Legged-Rearing motion, we aim to gain insights into their decision-making processes and memory capabilities.
+This project aims to investigate the ability of mice to distinguish between two different stimuli and examine if mice can form memories that affect their current reactions to the stimuli. The experiment is based on papers about mouse OLR (One-Legged-Rodent) motion.
 
-Project Goals
-Determine if mice can distinguish between two different stimuli.
-Investigate whether mice exhibit memory effects in relation to their current reactions to the stimuli.
-Contribute to the existing body of knowledge regarding mouse OLR motion and cognitive abilities.
-Experimental Design
-The experimental design includes the following key components:
+**Note:** This README file provides an overview of the project and its components. For detailed information regarding the experiment setup, data collection, and analysis, please refer to the relevant documentation and research papers cited in the repository.
 
-Stimuli: Two distinct visual or auditory cues will be presented to the mice.
-Training Phase: Mice will undergo a training phase to familiarize them with the stimuli and establish behavioral responses.
-Testing Phase: Mice will be subjected to various tests to assess their ability to discriminate between the stimuli and observe any memory effects.
-Data Collection
-Data will be collected through video recordings and motion-tracking software during the experiments. The following data points will be captured:
+## Table of Contents
 
-Mouse behavior during stimulus presentation
-Reaction times
-Distance covered during One-Legged-Rearing motion
-Data Analysis
-The collected data will be analyzed using statistical methods such as:
+- [Overview](#overview)
+- [Experimental Design](#experimental-design)
+- [Data Collection](#data-collection)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
-Hypothesis testing to determine if mice exhibit a significant ability to distinguish between stimuli.
-Correlation analysis to investigate any relationship between memory effects and current reactions.
-Visualization techniques to present the findings effectively.
-Setup Instructions
-To replicate or contribute to this project, please follow these setup instructions:
+## Overview
 
-Clone this repository to your local machine.
-Install the required dependencies (see Dependencies).
-Set up the experimental environment according to the provided guidelines.
-Run the experiments with proper control and test groups.
-Collect data using appropriate tools and techniques.
-Perform data analysis using the scripts and statistical methods provided in the repository.
-Dependencies
-The project has the following dependencies:
+The objective of this project is to explore the cognitive abilities of mice by conducting experiments that involve stimuli differentiation and memory formation. By studying and analyzing mouse behavior in response to specific stimuli, we aim to gain insights into their cognitive processes and potential memory-based decision-making.
 
-Python (version X.X)
-OpenCV (version X.X)
-Motion Tracking Library (version X.X)
-Please ensure that you have the specified versions of these dependencies installed before running the code.
+## Experimental Design
 
-Contributing
-Contributions to this project are welcome! If you want to contribute, please follow these steps:
+The experiment consists of two main parts:
 
-Fork this repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with descriptive commit messages.
-Push your changes to your forked repository.
-Submit a pull request detailing your changes.
-License
-This project is licensed under the MIT License. Feel free to use and modify the codebase as per the terms of the license.
+1. **Stimuli Differentiation:** In this phase, mice are exposed to two different stimuli, A and B, and their responses are recorded. The goal is to determine whether mice can distinguish between these two stimuli based on their behavioral reactions.
 
-Feel free to modify this README file based on your specific project details, guidelines, and preferences. It is crucial to provide clear instructions and explanations to facilitate understanding and collaboration among potential users or contributors.
+2. **Memory Formation and Recall:** In this phase, mice are initially exposed to stimuli A and B, and their responses are recorded. After a certain period of time, the mice are re-exposed to the same stimuli, and their reactions are observed and compared to their initial responses. This phase aims to assess whether mice can form memories that influence their subsequent reactions to the stimuli.
+
+## Data Collection
+
+To collect data, the following methods and tools are utilized:
+
+- **Experimental Setup:** A controlled environment is created where mice are introduced to the stimuli and their responses are recorded using appropriate sensors or tracking systems.
+
+- **Sensor/Tracking Data:** Various sensors or tracking systems, such as cameras or motion sensors, are used to capture the mice's movements and behavioral responses during the experiments. This data is stored for further analysis.
+
+## Data Analysis
+
+The collected data is analyzed using various statistical and computational methods, including but not limited to:
+
+- **Statistical Tests:** Statistical tests, such as t-tests or chi-square tests, may be performed to determine if there are significant differences in the mice's responses between stimuli A and B, or between the initial and subsequent exposures.
+
+- **Data Visualization:** Data visualization techniques, such as plots or graphs, may be employed to present and interpret the findings of the experiments in a clear and understandable manner.
+
+## Results
+
+The results of the experiments will be documented and presented in a comprehensive manner. These findings will provide insights into the cognitive abilities of mice, specifically their capability to differentiate between stimuli and form memory-based responses.
+
+## Contributing
+
+This project is currently not open to external contributions. However, suggestions and feedback are always welcome. If you have any ideas or improvements, please feel free to reach out via the contact information provided in the repository.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the [LICENSE](LICENSE) file for more details.
