@@ -44,7 +44,7 @@ The collected data is analyzed using various statistical and computational metho
 
 ## Results
 
-The results of the experiments will be documented and presented in a comprehensive manner. These findings will provide insights into the cognitive abilities of mice, specifically their capability to differentiate between stimuli and form memory-based responses. You can see some of our resaults in this [file](https://drive.google.com/file/d/1VYLISqxQz7n8LyTVIQJDszTyq6CpKcbX/view?usp=sharing)
+The results of the experiments will be documented and presented in a comprehensive manner. These findings will provide insights into the cognitive abilities of mice, specifically their capability to differentiate between stimuli and form memory-based responses. You can see some of our results in this [file](https://drive.google.com/file/d/1VYLISqxQz7n8LyTVIQJDszTyq6CpKcbX/view?usp=sharing)
 
 ## Contributing
 
